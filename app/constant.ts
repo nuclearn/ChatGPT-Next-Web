@@ -164,6 +164,7 @@ const openaiModels = [
   "animagineXLV3_v30.safetensors",
   "realismEngineSDXL_v10.safetensors",
   "devlishphotorealism_sdxl15.safetensors",
+  "flux",
   "SD-1.5-Inpainting-CF",
   "DS-8-CF",
   "SD-XL-Bash-CF",
