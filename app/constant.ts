@@ -292,6 +292,24 @@ const openaiModels = [
   "dall-e-3",
   "o1-mini",
   "o1-preview",
+  "llama-3.1-70b-versatile",
+  "llama-3.1-405b-reasoning",
+  "llama-3.2-1b-preview",
+  "llama-3.2-3b-preview",
+  "llama-3.2-90b-text-preview",
+  "mistral-large-latest",
+  "gemini-pro-search",
+  "gemini-flash-search",
+  "claude-3.5-sonnet-20240620",
+  "animagineXLV3_v30.safetensors",
+  "realismEngineSDXL_v10.safetensors",
+  "devlishphotorealism_sdxl15.safetensors",
+  "flux",
+  "SD-1.5-Inpainting-CF",
+  "DS-8-CF",
+  "SD-XL-Bash-CF",
+  "SD-XL-Lightning-CF",
+  "FLUX.1-Schnell-CF",
 ];
 
 const googleModels = [
@@ -299,6 +317,10 @@ const googleModels = [
   "gemini-1.5-pro-latest",
   "gemini-1.5-flash-latest",
   "gemini-pro-vision",
+  "gemini-1.5-pro-exp-0801",
+  "gemini-1.5-pro-exp-0827",
+  "gemini-1.5-pro-002",
+  "gemini-1.5-flash-002",
 ];
 
 const anthropicModels = [
